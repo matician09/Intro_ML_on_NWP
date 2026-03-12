@@ -1,6 +1,10 @@
 # Intro_ML_on_NWP
 
 ## Spack setting and Compilers installation Guide
+## Ref: Tutorial of Spack
+```
+https://spack-tutorial.readthedocs.io/en/latest/tutorial_modules.html
+```
 
 ## Cloning Spack
 ```
